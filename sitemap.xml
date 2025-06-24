@@ -1,44 +1,35 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset 
    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
- <url>
-  <loc>https://www.serviette.com.au/</loc>
-  <lastmod>2025-06-24T02:28:54+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.serviette.com.au/home</loc>
-  <lastmod>2025-06-24T02:28:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.serviette.com.au/how-it-works</loc>
-  <lastmod>2025-06-24T02:28:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.serviette.com.au/features</loc>
-  <lastmod>2025-06-24T02:28:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.serviette.com.au/pricing</loc>
-  <lastmod>2025-06-24T02:28:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.serviette.com.au/about</loc>
-  <lastmod>2025-06-24T02:28:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.serviette.com.au/contact</loc>
-  <lastmod>2025-06-24T02:28:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://www.serviette.com.au/</loc>
+    <priority>1.0</priority>
+  </url>
 
+  <url>
+    <loc>https://www.serviette.com.au/how-it-works</loc>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>https://www.serviette.com.au/features</loc>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>https://www.serviette.com.au/pricing</loc>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>https://www.serviette.com.au/about</loc>
+    <priority>0.8</priority>
+  </url>
+   
+  <url>
+    <loc>https://www.serviette.com.au/about</loc>
+    <priority>0.6</priority>
+  </url>
 
 </urlset>
-
