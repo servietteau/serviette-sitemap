@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private/
+Disallow: /temp/
+Disallow: /test/
+Allow: /
+
+Sitemap: https://www.serviette.io/sitemap.xml
